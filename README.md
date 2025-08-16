@@ -99,13 +99,6 @@ curl -X PUT http://localhost:5000/api/todos/1 \
 curl -X DELETE http://localhost:5000/api/todos/1
  Data is in-memory and resets when the backend restarts.
 
- Screenshots
-Add your screenshots inside an assets/ folder:
- <img width="464" height="323" alt="image" src="https://github.com/user-attachments/assets/b57deb71-3139-47bb-a184-9853d1b18635" />
-
-<img width="530" height="296" alt="image" src="https://github.com/user-attachments/assets/45362490-1d86-4d64-b95b-1a33cf60887b" />
-
- 
  Troubleshooting
 •	React Port 3000 already in use:
 o	Press Y when prompted to switch port, or free it:
