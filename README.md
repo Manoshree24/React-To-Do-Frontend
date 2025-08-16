@@ -3,15 +3,10 @@
 A full-stack To-Do app built with React(frontend) and Node.js + Express (backend).  
 Data is stored in memory on the server (no database), matching the assignment requirements.
 
-## GitHub Repository
-
 ## GitHub Repositories
 
 - **Frontend Repo:** [react-to-do-frontend](https://github.com/Manoshree24/react-to-do-frontend)  
 - **Backend Repo:** [full-stack-to-do-backend](https://github.com/Manoshree24/full-stack-to-do-backend)
-
-
-
 
 ---
 ##  Features
@@ -36,7 +31,6 @@ Data is stored in memory on the server (no database), matching the assignment re
 If deployed, replace this with your URL:  
 - **Frontend Live:** https://react-to-do-frontend.vercel.app/
 - **Backend Live:** https://full-stack-to-do-app-3ni2.onrender.com/
-
 
 ---
 
