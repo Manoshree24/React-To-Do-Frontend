@@ -27,8 +27,7 @@ Data is stored in memory on the server (no database), matching the assignment re
 
 ---
 ## Live Demo :
-
-If deployed, replace this with your URL:  
+  
 - **Frontend Live:** https://react-to-do-frontend.vercel.app/
 - **Backend Live:** https://full-stack-to-do-app-3ni2.onrender.com/
 
