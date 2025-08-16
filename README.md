@@ -1,4 +1,4 @@
-# Simple To-Do Application
+# To-Do Application
 
 A full-stack To-Do app built with **React** (frontend) and **Node.js + Express** (backend).  
 Data is stored **in memory** on the server (no database), matching the assignment requirements.
